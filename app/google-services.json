@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497130182385",
+    "project_id": "ecolime-37f72",
+    "storage_bucket": "ecolime-37f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497130182385:android:fe660e37277c425cf27b50",
+        "android_client_info": {
+          "package_name": "com.example.ecolime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497130182385-e056duajoq0r0019okbmg2kj3r3nn2oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0wkbSk3NUMGg-h1QnskHnVlM3ynyL7PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497130182385-e056duajoq0r0019okbmg2kj3r3nn2oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EColime</string>
+    <string name="caption_1">charge and change the world</string>
+    <string name="caption_2">Did you know? We Are Losing 1.2 Trillion Tons of Ice Each Year</string>
+    <string name="create_account">Create Account ?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_account">Already have account ? SignIn</string>
+
+
+    <string name="battle_strategy_title1">SHOCK AND AWE</string>
+    <string name="battle_strategy_title2">DEFEAT IN DETAIL</string>
+    <string name="battle_strategy_title3">DECEPTION</string>
+
+    <string name="battle_strategy_desc1">What does that mean?\nThe charging map will only show renewable/ surplus energy suppliers to make sure you reach your sustainability goals.</string>
+    <string name="battle_strategy_desc2">What does that mean?\nThe charging map will show all charging options and allow you to compensate your CO2- emissions. </string>
+    <string name="battle_strategy_desc3">What does that mean?\nThe charging map will show all charging options without being able to buy a green certificate.</string>
+    <string name="what_s_your_battle_strategy">what’s your battle strategy?</string>
+    <string name="which_co2_fighter_you_you_want_to_hire">Which CO2 fighter you you want to hire?</string>
+    <string name="by_choosing_your_co2_fighter_you_re_contributing_to_renewable_energy_projects_to_compensate_for_not_charging_at_100_green_ports">By choosing your CO2 fighter you’re contributing to renewable energy projects to compensate for not charging at 100% green ports.</string>
+    <string name="what_are_your_friends_up_to">what are your friends up to?</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="full_name">Full Name</string>
+
+
+</resources>
