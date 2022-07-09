@@ -91,7 +91,7 @@ The last strategy is for users who want to explore all charging options without 
 
 ### Map with Charging Stations
 
-<img src="Technical%20Report%209827485f14ec44ea8fb751b89a432919/map_1.png" width="250">
+<img src="" width="250">
 
 On the map, charging stations of companies or private individuals powered by surplus energy are displayed with an avatar, while regular public charging stations are displayed without an avatar. The user can initiate a charging process by tapping on the charging station or the avatar.
 
