@@ -138,9 +138,9 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
         listData.add(Data(latlng = "48.137154,11.576124", price = 0.49))
         listData.add(Data(latlng = "48.138974,11.578547", price = 0.47))
         listData.add(Data(latlng = "48.137842,11.583178", price = 0.46))
-        listData.add(Data(latlng = "48.135517,11.571345", price = 0.19, isPrivate = true, name = "Rudy Haywood", avatar = "ic_avatar_1"))
-        listData.add(Data(latlng = "48.139447,11.571926", price = 0.20, isPrivate = true, name = "Deidra Ayres", avatar = "ic_avatar_2"))
-        listData.add(Data(latlng = "48.137085,11.584214", price = 0.22, isPrivate = true, name = "Chance Marlow", avatar = "ic_avatar_3"))
+        listData.add(Data(latlng = "48.135517,11.571345", price = 0.26, isPrivate = true, name = "Rudy Haywood", avatar = "ic_avatar_1"))
+        listData.add(Data(latlng = "48.139447,11.571926", price = 0.28, isPrivate = true, name = "Deidra Ayres", avatar = "ic_avatar_2"))
+        listData.add(Data(latlng = "48.137085,11.584214", price = 0.29, isPrivate = true, name = "Chance Marlow", avatar = "ic_avatar_3"))
 
         return listData
     }
