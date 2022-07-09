@@ -57,13 +57,13 @@ After opening the app, the user will find various educational messages on the su
 
 ### Login Screen
 
-![login with email.png](Technical%20Report%209827485f14ec44ea8fb751b89a432919/login_with_email.png)
+<img src="Technical%20Report%209827485f14ec44ea8fb751b89a432919/login_with_email.png" width="250">
 
 The user is asked to register with his/her name, e-mail address, age, vehicle and password before the first login. After the first registration, the user can log in with his e-mail address and password.
 
 ### Avatar Screen
 
-![avatar.png](Technical%20Report%209827485f14ec44ea8fb751b89a432919/avatar.png)
+<img src="Technical%20Report%209827485f14ec44ea8fb751b89a432919/avatar.png" width="250">
 
 After the first login, the user is asked to choose an avatar to his/ her liking. This should help to enable greater individualization in line with our goal of gamification.
 
@@ -71,19 +71,19 @@ After the first login, the user is asked to choose an avatar to his/ her liking.
 
 The user can choose different "battle strategies". This is our way of providing different charging options to the users. Our customers can choose whether they only want to see charging stations operating on 100% renewable energy, they are interested in offsetting emissions for charging stations not powered by renewable energy or whether they want to see all charging options without compensation payments. We have deliberately chosen to call the different charging options/modes "battle strategies" in order to get the user in the mood for a "battle" against climate change in which he can make an important contribution. This achieves further gamification of our application. Such themes are successfully used in numerous games for motivating players to get more involved in the game and its cause (in our case, fighting climate change).
 
-![charging option.png](Technical%20Report%209827485f14ec44ea8fb751b89a432919/charging_option.png)
+<img src="Technical%20Report%209827485f14ec44ea8fb751b89a432919/charging_option.png" width="250">
 
 ***Shock and Awe***
 
 Users who select this strategy will only see charging stations that are powered by 100% renewable energy. Since it is difficult to identify the source of the electricity powering public charging stations, we assumed at the beginning of the project that only charging stations powered by surplus energy meet this criterion. These charging stations are often offered by companies or private individuals with solar panels on their roofs.
 
-![charging option 2.png](Technical%20Report%209827485f14ec44ea8fb751b89a432919/charging_option_2.png)
+<img src="Technical%20Report%209827485f14ec44ea8fb751b89a432919/charging_option_2.png" width="250">
 
 ***Defeat in Detail***
 
 By choosing this option all charging stations are displayed, i.e. also public charging stations powered by electricity from non-renewable sources. If the user charges at a public charging station, however, he is shown the option of offsetting the CO2 emissions generated. This process is explained further down below.
 
-![charging option 3.png](Technical%20Report%209827485f14ec44ea8fb751b89a432919/charging_option_3.png)
+<img src="Technical%20Report%209827485f14ec44ea8fb751b89a432919/charging_option_3.png" width="250">
 
 ***Deception***
 
@@ -91,29 +91,29 @@ The last strategy is for users who want to explore all charging options without 
 
 ### Map with Charging Stations
 
-![map_1.png](Technical%20Report%209827485f14ec44ea8fb751b89a432919/map_1.png)
+<img src="Technical%20Report%209827485f14ec44ea8fb751b89a432919/map_1.png" width="250">
 
 On the map, charging stations of companies or private individuals powered by surplus energy are displayed with an avatar, while regular public charging stations are displayed without an avatar. The user can initiate a charging process by tapping on the charging station or the avatar.
 
 ### Compensation of CO2 emissions with offsetting payments
 
-![green_cert_1.png](Technical%20Report%209827485f14ec44ea8fb751b89a432919/green_cert_1.png)
+<img src="Technical%20Report%209827485f14ec44ea8fb751b89a432919/green_cert_1.png" width="250">
 
-![green_cert_4.png](Technical%20Report%209827485f14ec44ea8fb751b89a432919/green_cert_4.png)
+<img src="Technical%20Report%209827485f14ec44ea8fb751b89a432919/green_cert_4.png" width="250">
 
-![green_cert_2.png](Technical%20Report%209827485f14ec44ea8fb751b89a432919/green_cert_2.png)
+<img src="Technical%20Report%209827485f14ec44ea8fb751b89a432919/green_cert_2.png" width="250">
 
 This is displayed when the user selected the "Defeat in Detail" strategy and used a public charging station powered by electricity from non-renewable sources. As depicted in the screenshots, the user has the option to offset 100% or 50% of the CO2 emissions generated during the charging process. Yet, this is not a required payment and will only be charged if the user agrees to it. However, keep in mind that the user only receives coins for their charging process if the emissions have been compensated or the electricity comes from renewable sources.
 
 ### Coins earned
 
-![coins earned.png](Technical%20Report%209827485f14ec44ea8fb751b89a432919/coins_earned.png)
+<img src="Technical%20Report%209827485f14ec44ea8fb751b89a432919/coins_earned.png" width="250">
 
 After charging at charging stations powered by surplus energy, the user receives 5 coins. If the user has charged at a public charging station powered by non-renewable energy and compensates 100% of the generated CO2 emissions, they receive 3 coins. In case the 50% compensation option is chosen, 1 coin gets awarded. These credits can be redeemed at participating restaurants and stores. To further improve the app’s gamification there is a ranking, whereby users can compare themselves with their peers. 
 
 ### Ranking Screen
 
-![ranking.png](Technical%20Report%209827485f14ec44ea8fb751b89a432919/ranking.png)
+<img src="Technical%20Report%209827485f14ec44ea8fb751b89a432919/ranking.png" width="250">
 
 The ranking allows the individual users to see how many coins they have already collected compared to their peers. This feature is a key gamification element and intended to encourage users to charge "greener" than their peers.
 
