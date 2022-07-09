@@ -51,7 +51,7 @@ To facilitate the understanding of the app functionalities the different screens
 
 ### Launch Screen
 
-![launch screen 3.png](Technical%20Report%209827485f14ec44ea8fb751b89a432919/launch_screen_3.png)
+<img src="Technical%20Report%209827485f14ec44ea8fb751b89a432919/launch_screen_3.png" width="250">
 
 After opening the app, the user will find various educational messages on the subject of climate change and sustainability appear during the loading process. The aim is to make EV drivers more motivated to charge completely emission-free.
 
